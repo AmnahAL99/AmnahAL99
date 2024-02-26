@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @AmnahAL99
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there, I'm Amnah! 👋
 
-<!---
-AmnahAL99/AmnahAL99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate Software Tester dedicated to ensuring quality and excellence in every line of code. With a keen eye for detail and a relentless pursuit of perfection, I specialize in crafting automated tests that challenge assumptions and push software to its limits.
+
+🔭 I’m currently working on enhancing automation frameworks using tools like Selenium and Playwright to streamline the testing process and improve software reliability.
+
+🌱 I’m on a continuous learning path, diving deep into the latest testing methodologies,  and exploring innovative tools and technologies in the world of software testing.
+
+👨‍💻 All of my projects are available on GitHub.
+
+⚡ Fun fact: I believe that finding a bug is like solving a mystery, and I love every moment of the detective work.
+
+
